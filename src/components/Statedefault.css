@@ -1,0 +1,45 @@
+.status2 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.statedefault {
+  border-radius: 4px;
+  background-color: #262626;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 8px;
+  text-align: left;
+  font-size: 10px;
+  color: #fff;
+  font-family: Inter;
+}
+
+/* Media Queries for 1440x1080 Resolution */
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  .status2 {
+    line-height: 10px;
+  }
+
+  .statedefault {
+    font-size: 8px;
+    padding: 2px 4px;
+  }
+}
+
+/* Media Queries for 1280x780 Resolution */
+@media screen and (max-width: 1280px) and (max-height: 780px) {
+  .status2 {
+    line-height: 8px;
+  }
+
+  .statedefault {
+    font-size: 6px;
+    padding: 1px 2px;
+  }
+}

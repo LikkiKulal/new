@@ -1,0 +1,95 @@
+.assignments2,
+.div29 {
+  position: relative;
+  line-height: 32px;
+  font-weight: 600;
+}
+.assignments2 {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.parent9 {
+  position: absolute;
+  top: 20px;
+  left: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.icontick-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  border: 2px solid #ffe9f9;
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.icontick-child1,
+.icontick1 {
+  position: absolute;
+  top: 7px;
+  left: 4px;
+  width: 16px;
+  height: 10px;
+}
+.icontick1 {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.icontick-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: 100px;
+  background-color: #e9fcf1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.frame-parent14 {
+  position: absolute;
+  top: 192px;
+  left: 638px;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  width: 230px;
+  height: 94px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
+
+/* Media Query for 1440x1080 Resolution */
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  .frame-parent14 {
+    top: 150px;
+    left: 578px;
+    width: 190px;
+    height: 76px;
+    font-size: 20px;
+  }
+}
+
+/* Media Query for 1280x780 Resolution */
+@media screen and (max-width: 1280px) and (max-height: 780px) {
+  .frame-parent14 {
+    top: 130px;
+    left: 518px;
+    width: 160px;
+    height: 64px;
+    font-size: 18px;
+  }
+}

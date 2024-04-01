@@ -1,0 +1,299 @@
+.frame-child21,
+.frame-child22 {
+  position: absolute;
+  border-radius: 10px;
+}
+.frame-child21 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  width: 328px;
+  height: 789px;
+}
+.frame-child22 {
+  top: 8px;
+  left: 8px;
+  background-color: #fff8f8;
+  width: 312px;
+  height: 127px;
+}
+.september-20231 {
+  position: absolute;
+  top: 2.53%;
+  left: 6.1%;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+.div35 {
+  position: relative;
+  font-weight: 500;
+}
+.parent10 {
+  position: absolute;
+  top: 165px;
+  left: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45px;
+  font-size: 12px;
+  color: #757575;
+}
+.frame-child23 {
+  width: 212px;
+  position: relative;
+  border-top: 1px solid #eaeaea;
+  box-sizing: border-box;
+  height: 1px;
+}
+.line-group {
+  position: absolute;
+  top: 172px;
+  left: 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.frame-child33,
+.frame-child34 {
+  position: absolute;
+  top: 291.5px;
+  left: 64.5px;
+  border-top: 1px solid #eaeaea;
+  box-sizing: border-box;
+  width: 212px;
+  height: 1px;
+}
+.frame-child34 {
+  top: 351.5px;
+}
+.div45 {
+  top: 0;
+  left: 32%;
+  line-height: 20px;
+  font-weight: 600;
+}
+.div45,
+.mon1,
+.parent11 {
+  position: absolute;
+}
+.mon1 {
+  top: 55.56%;
+  left: 0;
+  font-size: 12px;
+  line-height: 16px;
+  color: #757575;
+}
+.parent11 {
+  height: 85.71%;
+  width: 54.35%;
+  top: 9.52%;
+  right: 23.91%;
+  bottom: 4.76%;
+  left: 21.74%;
+}
+.group-wrapper6 {
+  width: 46px;
+  position: relative;
+  height: 42px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div46 {
+  top: 0;
+  left: 26.32%;
+  line-height: 20px;
+  font-weight: 600;
+}
+.div46,
+.parent12,
+.tue1 {
+  position: absolute;
+}
+.tue1 {
+  top: 55.56%;
+  left: 0;
+  font-size: 12px;
+  line-height: 16px;
+}
+.parent12 {
+  height: 85.71%;
+  width: 41.3%;
+  top: 9.52%;
+  right: 30.43%;
+  bottom: 4.76%;
+  left: 28.26%;
+}
+.group-wrapper7 {
+  width: 46px;
+  position: relative;
+  border-radius: 8px;
+  background-color: #ff5a56;
+  height: 42px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #fff;
+}
+.div47 {
+  top: 0;
+  left: 33.33%;
+  line-height: 20px;
+  font-weight: 600;
+}
+.div47,
+.parent13,
+.thu1 {
+  position: absolute;
+}
+.parent13 {
+  height: 85.71%;
+  width: 52.17%;
+  top: 9.52%;
+  right: 26.09%;
+  bottom: 4.76%;
+  left: 21.74%;
+}
+.thu1 {
+  top: 55.56%;
+  left: calc(50% - 9.5px);
+  font-size: 12px;
+  line-height: 16px;
+  color: #757575;
+}
+.div49 {
+  top: 0;
+  left: 16.67%;
+  line-height: 20px;
+  font-weight: 600;
+}
+.div49,
+.fri1,
+.parent15 {
+  position: absolute;
+}
+.fri1 {
+  top: 55.56%;
+  left: calc(50% - 6px);
+  font-size: 12px;
+  line-height: 16px;
+  color: #757575;
+}
+.parent15 {
+  height: 85.71%;
+  width: 26.09%;
+  top: 9.52%;
+  right: 39.13%;
+  bottom: 4.76%;
+  left: 34.78%;
+}
+.div50 {
+  top: 0;
+  left: 22.22%;
+  line-height: 20px;
+  font-weight: 600;
+}
+.div50,
+.parent16,
+.sat1 {
+  position: absolute;
+}
+.sat1 {
+  top: 55.56%;
+  left: calc(50% - 9px);
+  font-size: 12px;
+  line-height: 16px;
+  color: #757575;
+}
+.parent16 {
+  height: 85.71%;
+  width: 39.13%;
+  top: 9.52%;
+  right: 30.43%;
+  bottom: 4.76%;
+  left: 30.43%;
+}
+.frame-parent18 {
+  position: absolute;
+  top: 69px;
+  left: calc(50% - 145px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+  font-family: Inter;
+}
+.swadhyay-with-dr1 {
+  position: absolute;
+  width: 90.4%;
+  top: 32.52%;
+  left: 6.4%;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.am-1200pm1 {
+  position: absolute;
+  top: 74.8%;
+  left: 6.4%;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #757575;
+}
+.swadhyay-with-dr-atul-group {
+  position: absolute;
+  top: 256px;
+  left: 64px;
+  border-radius: 8px;
+  background-color: #faebf0;
+  width: 250px;
+  height: 123px;
+  font-family: Inter;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 310px;
+  left: 1032px;
+  width: 328px;
+  height: 789px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+
+
+/* Media Query for 1440x1080 Resolution */
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  .frame-child21 {
+    width: 280px;
+    height: 680px;
+  }
+  .frame-child22 {
+    width: 264px;
+    height: 107px;
+  }
+}
+
+/* Media Query for 1280x780 Resolution */
+@media screen and (max-width: 1280px) and (max-height: 780px) {
+  .frame-child21 {
+    width: 240px;
+    height: 580px;
+  }
+  .frame-child22 {
+    width: 224px;
+    height: 91px;
+  }
+}

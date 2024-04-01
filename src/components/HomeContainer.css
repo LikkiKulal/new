@@ -1,0 +1,72 @@
+.div28 {
+  position: relative;
+  line-height: 32px;
+  font-weight: 600;
+}
+
+.ongoing-courses2 {
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  
+}
+.parent8 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; 
+  position: absolute;
+  top: 20px;
+  left: 76px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+
+.frame-child18,
+.frame-parent13 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+ 
+}
+
+.frame-parent13 {
+  top: 192px;
+  left: 392px;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  width: 230px;
+  height: 94px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+  position: absolute;
+  
+}
+
+/* Media Query for 1440x1080 Resolution */
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  .parent8 {
+    left: 56px; 
+  }
+  .frame-parent13 {
+    left: 352px; 
+  }
+}
+
+/* Media Query for 1280x780 Resolution */
+@media screen and (max-width: 1280px) and (max-height: 780px) {
+  .parent8 {
+    left: 36px; 
+  }
+  .frame-parent13 {
+    left: 292px; 
+  }
+}

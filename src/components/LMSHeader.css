@@ -1,0 +1,105 @@
+.lms-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid #e7e7e7;
+  box-sizing: border-box;
+  max-width: 100%;
+  height: 80px;
+  padding: 0 1rem;
+  text-align: right;
+  font-size: 16px;
+  color: #0d0d0d;
+  font-family: Inter;
+  z-index: 999; /* Add a higher z-index to ensure it's on top */
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  font-weight: 500;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+/* Apply text shadow only to the "Community" text */
+.community-item {
+  font-weight: bold; 
+  text-shadow: 2px 2px 2px rgba(13, 13, 13, 0.2); /* Adjust the color values */
+}
+
+.nav-icons {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.nav-icon {
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.pp-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #fcece1;
+  margin-left: 1rem;
+}
+
+.pp {
+  font-weight: 500;
+}
+
+/* Media Query for 1440x1080 Resolution */
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  .lms-header {
+    height: 60px;
+    padding: 0 0.5rem;
+    font-size: 14px;
+  }
+
+  .nav-item {
+    margin-right: 0.5rem;
+  }
+
+  .menu-toggle {
+    margin-left: 0.5rem;
+  }
+}
+
+/* Media Query for 1280x780 Resolution */
+@media screen and (max-width: 1280px) and (max-height: 780px) {
+  .lms-header {
+    height: 50px;
+    padding: 0 0.5rem;
+    font-size: 12px;
+  }
+
+  .nav-item {
+    margin-right: 0.25rem;
+  }
+
+  .menu-toggle {
+    margin-left: 0.25rem;
+  }
+}
